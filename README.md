@@ -393,7 +393,7 @@ Default ramdisk store address     :
 Default DTB file name             :
 Board Id                          : AR2140_VOIP
 Number of MAC Addresses (1-64)    : 4
-Base MAC Address                  : 18:34:af:51:19:a5
+Base MAC Address                  : XXXXXXXXXXXX
 PSI Size (1-512) KBytes           : 48
 Enable Backup PSI [0|1]           : 0
 System Log Size (0-256) KBytes    : 0
