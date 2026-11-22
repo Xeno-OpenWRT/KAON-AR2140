@@ -46,3 +46,6 @@ So I recently got my hands on the Maxis WiFi 6 Router with their new WiFi 6 Home
 * UART / Serial Console:
   * Standard 3.3V TTL UART pads are present on the PCB (GND, TX, RX, VCC(DONT USE FOR UART))
 	* Typical Broadcom CFE / U-Boot baud rate is 115200
+
+### Some other people's repositories 
+https://github.com/B83C/max2140_bin
