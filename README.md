@@ -58,7 +58,7 @@ So I recently got my hands on the Maxis WiFi 6 Router with their new WiFi 6 Home
 ### Unlocking & Entering an Unrestricted Root Shell
 
 * Broadcom's custom sshd puts users in a restricted CLI even though MaxARSysOpr is configured with /bin/sh in /var/passwd.
-1. Log into the Web UI as MaxARSysOpr (default password: !!bestHOME!!xxxx, xxxx is the last 4 digits of the router's serial number) and enable SSH under Security → Access Control or SSH is enabled by default but isn't an option in the stock WebUI.
+1. Log in with SSH as MaxARSysOpr (default password: !!bestHOME!!xxxx, xxxx is the last 4 digits of the router's serial number) and enable SSH under Security → Access Control or SSH is enabled by default but isn't an option in the stock WebUI.
 
 * 2.Connect via SSH from your PC
 
